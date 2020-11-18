@@ -1,4 +1,4 @@
-# Live Mean Reversion Strategy (Python Exchange)
+# Live Mean Reversion Strategy 
 # Created by swaroop9ai9
 
 #                               -----------------------------------------
@@ -8,6 +8,7 @@
 
 #-------------------------------------Dependencies and database link-------------------------------------------
 import datetime
+import raptorfinance
 from yahoo_finance import Share
 
 from sqlalchemy.ext.declarative import declarative_base
