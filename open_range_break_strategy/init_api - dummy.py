@@ -1,11 +1,11 @@
 from kiteconnect import KiteConnect
 
-apiKey = 'dummy text'
-apiSecret = 'dummy text'
+apiKey = 'your key'
+apiSecret = 'your key'
 
-requestToken = 'dummy text'
+requestToken = 'your key'
 
-accessToken = 'dummy text'
+accessToken = 'your key'
 
 kite = KiteConnect(api_key = apiKey)
 
