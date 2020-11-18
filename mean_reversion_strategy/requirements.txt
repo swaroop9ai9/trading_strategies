@@ -1,3 +1,4 @@
 yahoo-finance
 sqlalchemy
+raptorfinance
 
